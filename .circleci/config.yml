@@ -1,0 +1,7 @@
+cd D:/School/40dni/NRP/Git
+git init
+git remote add origin https://github.com/Jurgen101/Jurgen101.github.com
+git add Komande.txt
+git status
+git commit -m "Initial commit"
+git push --set-upstream origin master
